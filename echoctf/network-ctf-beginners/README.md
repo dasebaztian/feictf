@@ -8,7 +8,7 @@ description: >-
 
 ### Target list
 
-* [x] [bender](./bender#bender)
+* [x] [bender](./bender.md#bender)
 * [x] [headoffice](./headoffcie#headoffice)
 * [x] [hostel](./hostel#hostel)
 * [x] [idiotr](./idiotr#idiotr)
