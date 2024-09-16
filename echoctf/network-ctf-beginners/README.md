@@ -9,12 +9,12 @@ description: >-
 ### Target list
 
 * [x] [bender](./bender.md#bender)
-* [x] [headoffice](./headoffcie#headoffice)
-* [x] [hostel](./hostel#hostel)
-* [x] [idiotr](./idiotr#idiotr)
-* [x] [argonauts](.argonauts/#argonauts)
-* [x] [getip](./getip#getip)
-* [x] [postoffice](./postoffice#postoffice)
+* [x] [headoffice](./headoffcie.md#headoffice)
+* [x] [hostel](./hostel.md#hostel)
+* [x] [idiotr](./idiotr.md#idiotr)
+* [x] [argonauts](./argonauts.md#argonauts)
+* [x] [getip](./getip.md#getip)
+* [x] [postoffice](./postoffice.md#postoffice)
 * [ ] theloginofshame
 * [ ] 6letter-juggler
 * [ ] juggling-flea
