@@ -9,7 +9,7 @@ description: >-
 ### Target list
 
 * [x] [bender](./bender.md#bender)
-* [x] [headoffice](./headoffcie.md#headoffice)
+* [x] [headoffice](./headoffice.md#headoffice)
 * [x] [hostel](./hostel.md#hostel)
 * [x] [idiotr](./idiotr.md#idiotr)
 * [x] [argonauts](./argonauts.md#argonauts)
