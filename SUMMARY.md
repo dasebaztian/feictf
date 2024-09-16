@@ -4,8 +4,7 @@
 
 ## echoCTF
 
-* [Network - CTF Beginners](echoctf/network-ctf-beginners/README.md)
-  * [bender](echoctf/network-ctf-beginners/bender.md)
+* [Network - CTF Beginners](echoctf/network-ctf-beginners.md)
 
 ## CC2024
 
